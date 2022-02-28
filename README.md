@@ -1,1 +1,1 @@
-# tailwindcss vitejs starter
+# storybook vitejs tailwindcss starter
